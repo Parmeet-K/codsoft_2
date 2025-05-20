@@ -8,7 +8,7 @@
       font-family: 'Segoe UI', sans-serif;
       background-color: #fff8f0;
       color: #333;
-      background-image: url(body.png);
+      background-image: url(assets/body.png);
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
@@ -59,7 +59,7 @@
       text-align: center;
       padding: 80px 20px;
       background-color: #ffe3e3;
-      background-image: url(logo.png);
+      background-image: url(assets/logo.png);
       background-repeat: repeat;
       background-position: top center;
       background-size: contain;
